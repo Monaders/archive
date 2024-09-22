@@ -1,6 +1,6 @@
 # CSS Naming Conventions
 
-## 목차
+### 목차
 
 1. [OOCSS](#oocss)
    - [원칙](#원칙)
