@@ -167,18 +167,12 @@ ex) `menu item`, `list item`, `checkbox caption`, `header title`
 
   하지만 Block의 부분이지 Element의 부분이 아니므로 `block-name__element_element2` 와 같이 사용될 수 없다.
 
-<aside>
-💡
-
-언제 Block과 혹은 Element를 만들어야 할까?
-
-구현된 다른 페이지 컴포넌트에 의존하지 않고 코드가 재사용된다. → Block
-
-부모 없이 구분해서 사용할 수 없다. → Element
-
-Element가 더 작은 부분으로 나뉘어져야 한다. → Block/ Mix
-
-</aside>
+> [!TIP]
+> 언제 Block과 혹은 Element를 만들어야 할까?
+>
+> - 구현된 다른 페이지 컴포넌트에 의존하지 않고 코드가 재사용된다. → Block
+> - 부모 없이 구분해서 사용할 수 없다. → Element
+> - Element가 더 작은 부분으로 나뉘어져야 한다. → Block/ Mix
 
 ## Modifier
 
